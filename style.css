@@ -40,7 +40,9 @@ header ul li a {
 
 /* Hero Section */
 main section:first-of-type {
-    background: url('/back.png') no-repeat center center/cover;
+    background-image: url('back.png');
+    background-size: cover;
+    background-repeat: no-repeat;
     padding: 100px 20px;
     text-align: center;
     color: white;
