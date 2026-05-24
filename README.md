@@ -1,2 +1,2 @@
 # Zomato_Home-Page
-It's a Zomato's website homepage using HTML, CSS and JavaScript.
+It's a Zomato's website homepage using HTML, CSS and JavaScript. Just a replica of Zomato
